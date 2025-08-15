@@ -1,0 +1,13 @@
+.font{
+    font-size: 28px;
+    font-family: Helvetica "Times New Roman", sans-serif;
+}
+
+.backg-black{
+    background-color: black;
+    color: white;
+}
+
+.backg-yellow{
+    background-color: yellow;
+}
